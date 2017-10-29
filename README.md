@@ -1,7 +1,8 @@
 ..
 
 Referral
-  create      // create with all initial fields
-  setStage    // assign a workflow stage - open, assigned, complete
+  setData      // create with all initial fields
+  updateStage  // assign a workflow stage - open, assigned, complete
 ReferralList
-  add         // adds a referral id
+  push         // adds a referral id
+  get          // get by index
