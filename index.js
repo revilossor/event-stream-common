@@ -1,3 +1,3 @@
 module.exports = {
-  test: 'hello common modules'
+  Referral: require('./lib/referral')
 };

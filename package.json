@@ -11,5 +11,8 @@
     "url": ".."
   },
   "author": "oliver.ross@hotmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "rahv-stream-client": "file:../client"
+  }
 }
