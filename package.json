@@ -1,6 +1,6 @@
 {
   "name": "rahv-spike-common",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "common modules for rahv spike",
   "main": "index.js",
   "scripts": {
