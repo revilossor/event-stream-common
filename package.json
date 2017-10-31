@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ".."
+    "url": "https://github.com/revilossor/rahv-common.git"
   },
   "author": "oliver.ross@hotmail.com",
   "license": "SEE LICENSE IN LICENCE",
