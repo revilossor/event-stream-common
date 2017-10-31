@@ -1,4 +1,4 @@
-module.exports = {
-  Referral: require('./lib/referral'),
-  ReferralList: require('./lib/referral-list')
-};
+module.exports = (path) => ({
+  Referral: require('./lib/referral')(path),
+  ReferralList: require('./lib/referral-list')(path)
+});
