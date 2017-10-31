@@ -13,6 +13,6 @@
   "author": "oliver.ross@hotmail.com",
   "license": "SEE LICENSE IN LICENCE",
   "dependencies": {
-    "rahv-stream-client": "file:../client"
+    "rahv-spike-stream-client": "0.0.0"
   }
 }
