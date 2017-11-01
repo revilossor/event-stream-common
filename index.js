@@ -5,7 +5,7 @@ module.exports = (path) => {
 
   return {
     Referral: require('./lib/referral')(client),
-    ReferralList: require('./lib/referral-list')(client)
+    AggregateList: require('./lib/aggregate-list')(client)
   };
 
 };
